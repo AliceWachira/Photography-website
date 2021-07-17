@@ -48,6 +48,9 @@ body {
   .brial {
     font-weight: 700;
 }
+.follow {
+    color: rgb(2, 2, 2);
+}
   h3 {
     color: slateblue;
     font: x-large;
