@@ -75,7 +75,7 @@ ul {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  }
  .footer {
-    background-color: #9cd3ed;
+    
     padding: 10px 10px;
     margin-inline: 0;
     position: static;
@@ -85,7 +85,6 @@ ul {
   .footer-right {
     font-family: serif;
     font: x-large;
-    float: right;
   }
   .footer-center {
     font-family: serif;
