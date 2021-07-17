@@ -71,6 +71,12 @@ ul {
     color: black;
     font: initial;
 }
+.article {
+    align-items: stretch;
+    color:rgb(2, 2, 2);
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
 
   
   
