@@ -54,6 +54,11 @@ body {
     font-family: cursive;
     font-style: normal;
 }
-
+img {
+    border: 0.5px transparent pink;
+    border-color: brown;
+    border-style: initial;
+    padding: 0px;
+}
   
   
