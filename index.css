@@ -60,5 +60,12 @@ img {
     border-style: initial;
     padding: 0px;
 }
+h4 {
+    color: slateblue;
+    font: x-large;
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 700;
+}
   
   
