@@ -15,5 +15,8 @@
 ### git log - used this code to track my commits.
 ### git status - used this to list files where I made changes.
 
-
+# Sources of code
+### https://moringaschool.instructure.com/courses/421
+### https://www.w3schools.com/
+### https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 

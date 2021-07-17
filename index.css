@@ -48,6 +48,12 @@ body {
   .brial {
     font-weight: 700;
 }
+.contacts {
+    color: rgb(2, 2, 2);
+}
+.location {
+    color: rgb(2, 2, 2);
+}
 .follow {
     color: rgb(2, 2, 2);
 }
