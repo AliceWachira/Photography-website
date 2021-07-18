@@ -1,4 +1,6 @@
 # Project Title: BRIAL PHOTOGRAPHY SOLUTIONS WEBSITE
+# Project Author: Alice Wachira 
+## Project description
 ### This project entails creating a simple photography website. It illustrates how one can use the html elements and such such as:
 ### div span headers footers strong and unordered list tags
 ### It also creates a link between the html and the css files.
