@@ -23,3 +23,6 @@
 ### https://www.w3schools.com/
 ### https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
+# License
+### This project has been licensed by MIT 
+
