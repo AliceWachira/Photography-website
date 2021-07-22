@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 # Project Title: BRIAL PHOTOGRAPHY SOLUTIONS WEBSITE
+=======
+![IMG_20210717_235850](https://user-images.githubusercontent.com/87478804/126049526-8a3748b6-c550-4bd8-b67a-75c764f7aa8e.jpg)
+# Project Title: PROJECT DESIGN FOR BRIAL PHOTOGRAPHY SOLUTIONS WEBSITE
+>>>>>>> 2ef196481fd32efbef842bc63aa03c1a42b1904c
 # Project Author: Alice Wachira 
 ## Project description
 ### This project entails creating a simple photography website. It illustrates how one can use the html elements and such such as:
-### div span headers footers strong and unordered list tags
+### div, span ,headers ,footers ,strong and unordered list tags
 ### It also creates a link between the html and the css files.
 ### The project also demonstrates how we can add images to our website and style them.
 
@@ -21,4 +26,7 @@
 ### https://moringaschool.instructure.com/courses/421
 ### https://www.w3schools.com/
 ### https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+# License
+### This project has been licensed by MIT 
 
