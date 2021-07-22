@@ -6,6 +6,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
    background-color: rgb(227, 199, 199);
    text-align: justify;
+   position: sticky;
    
   }
   
@@ -67,7 +68,16 @@ img {
     border: 0.5px transparent pink;
     border-color: brown;
     border-style: initial;
-    padding: 0px;
+    padding: 10px;
+}
+.myimages{
+  display: flex;
+}
+.firstimage,.secondimage,.thirdimage{
+  height: 490px;
+  width: 350px;
+ object-fit: cover;
+ border-radius: 25px;
 }
 .image {
     height: 300px;
@@ -113,7 +123,11 @@ ul {
     font-family: serif;
     font: xx-large;
   }
-
+  #my-email {
+    
+    width: 260px;
+    
+}
   
     
     
