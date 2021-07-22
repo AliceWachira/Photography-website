@@ -87,8 +87,9 @@ img {
   
 }
 .icons {
-    height: 20px;
-    width: 20px;
+    height: 30px;
+    width: 30px;
+
 }
 h4 {
     color: slateblue;
@@ -112,7 +113,9 @@ ul {
     padding: 10px 10px;
     margin-inline: 0;
     position: static;
-    padding: 0;
+    padding: 15px;
+    background-color: azure;
+    
 }
  
   .footer-right {
@@ -125,7 +128,7 @@ ul {
   }
   #my-email {
     
-    width: 260px;
+    width: 300px;
     
 }
   
