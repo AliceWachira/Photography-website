@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 # Project Title: BRIAL PHOTOGRAPHY SOLUTIONS WEBSITE
 =======
-![IMG_20210717_235850](https://user-images.githubusercontent.com/87478804/126049526-8a3748b6-c550-4bd8-b67a-75c764f7aa8e.jpg)
+
 # Project Title: PROJECT DESIGN FOR BRIAL PHOTOGRAPHY SOLUTIONS WEBSITE
+### https://www.figma.com/file/k1oFEkp6Cht3SLcYyo9O70/Website-Design?node-id=225%3A2
+
+![Sketch1](https://user-images.githubusercontent.com/87478804/126663444-ed038ab1-e8d3-41ca-a727-0dc8babebbe2.jpeg)
+
 >>>>>>> 2ef196481fd32efbef842bc63aa03c1a42b1904c
 # Project Author: Alice Wachira 
 ## Project description
